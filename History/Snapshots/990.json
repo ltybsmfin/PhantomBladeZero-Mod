@@ -1,0 +1,18 @@
+{
+  "label": "990",
+  "scope": "Component retained by the current distribution",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L9_grip_pack/runtime/zzz_Younuo_Socket_990_P.pak",
+      "sha256": "442a9e2b3ee95c0737d229f2a889b0981428c1b6c10a4362306bd03477c91030"
+    },
+    {
+      "path": "Builds/AnimAlignment/L9_grip_pack/runtime/zzz_Younuo_Socket_990_P.utoc",
+      "sha256": "0a1b3f7105437acc088635ca7aef5d017ac19fd8b56c9264161e0ccdff5cbb63"
+    },
+    {
+      "path": "Builds/AnimAlignment/L9_grip_pack/runtime/zzz_Younuo_Socket_990_P.ucas",
+      "sha256": "57f8cd0a559171267a32d096399862ede6e3a29a538d5890abf7731e7812ec14"
+    }
+  ]
+}
