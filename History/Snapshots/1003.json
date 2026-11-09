@@ -1,0 +1,18 @@
+{
+  "label": "1003",
+  "scope": "Component retained by the current distribution",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L37_native_idle_trial/Delivery/zzz_Younuo_ZhanMaIdleContact_1003_P.pak",
+      "sha256": "df8aaaf1ce96a84999c95fb1efdeb4555e96f2f8784f0d44c3fdac414ac635c5"
+    },
+    {
+      "path": "Builds/AnimAlignment/L37_native_idle_trial/Delivery/zzz_Younuo_ZhanMaIdleContact_1003_P.utoc",
+      "sha256": "a52c0f2b9e794942b0cc2a67627edce953e80d359d1edf2053d410f212e24948"
+    },
+    {
+      "path": "Builds/AnimAlignment/L37_native_idle_trial/Delivery/zzz_Younuo_ZhanMaIdleContact_1003_P.ucas",
+      "sha256": "84240da0260f36368c8c142dcc30d0fcc0f6ccacc9885669a2fc536bec4b91ba"
+    }
+  ]
+}
