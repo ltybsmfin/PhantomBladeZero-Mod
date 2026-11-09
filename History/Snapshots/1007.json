@@ -1,0 +1,18 @@
+{
+  "label": "1007",
+  "scope": "Experimental or superseded component; not part of the current deployment",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L47_weapon_motion_trial/Delivery/zzz_Younuo_WeaponMotionContact_1007_P.pak",
+      "sha256": "4e4f737a0d34b92ebd18e3c130782d511b5ac9ba33a78fb549b21cd28634e090"
+    },
+    {
+      "path": "Builds/AnimAlignment/L47_weapon_motion_trial/Delivery/zzz_Younuo_WeaponMotionContact_1007_P.utoc",
+      "sha256": "8bece0623f2f434607163d18ed1d3dfab1abd3fdf936c5b402a32d939496be4a"
+    },
+    {
+      "path": "Builds/AnimAlignment/L47_weapon_motion_trial/Delivery/zzz_Younuo_WeaponMotionContact_1007_P.ucas",
+      "sha256": "bf13626abf0a6a9e15da14ea2beefae6cb1f3b25a349cf0c74190bfdd1808ed2"
+    }
+  ]
+}
