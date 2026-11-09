@@ -1,0 +1,18 @@
+{
+  "label": "998",
+  "scope": "Component retained by the current distribution",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L27_native_grip_target/Delivery/zzz_Younuo_WeaponL_998_P.pak",
+      "sha256": "04a44a994eade664dec88210d3045646808ee192146ad9a9059499956d9f43ab"
+    },
+    {
+      "path": "Builds/AnimAlignment/L27_native_grip_target/Delivery/zzz_Younuo_WeaponL_998_P.utoc",
+      "sha256": "5b69004f37bf82b17e20ebc9b85a4020b924ad1771225e3151cb158ac4b4f3c9"
+    },
+    {
+      "path": "Builds/AnimAlignment/L27_native_grip_target/Delivery/zzz_Younuo_WeaponL_998_P.ucas",
+      "sha256": "54a054c70269e4aadcc0f44c1a2e4dc69d6d0b619181ff27f44814571938cfd6"
+    }
+  ]
+}
