@@ -1,0 +1,18 @@
+{
+  "label": "render-r007",
+  "scope": "Archived rendering increment requiring its matching cumulative baseline",
+  "files": [
+    {
+      "path": "Builds/YounuoRender_v01/Runtime/R007/Increment/Delivery/zzz_Younuo_R007_increment.pak",
+      "sha256": "ab17ebf62ce61e04a64fe1b69aeedb560d2dfa864720c4c02648cb3ee3cd192d"
+    },
+    {
+      "path": "Builds/YounuoRender_v01/Runtime/R007/Increment/Delivery/zzz_Younuo_R007_increment.utoc",
+      "sha256": "eba83ea4d13d00fd5a25aab29a686aba6850c8c7d6bb8b5344c1abb8fff74b91"
+    },
+    {
+      "path": "Builds/YounuoRender_v01/Runtime/R007/Increment/Delivery/zzz_Younuo_R007_increment.ucas",
+      "sha256": "e4a65b7fd0970bf9e24d049acdb905dc22807faace5fc48984f589a4fb172be6"
+    }
+  ]
+}
