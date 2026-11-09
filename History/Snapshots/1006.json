@@ -1,0 +1,18 @@
+{
+  "label": "1006",
+  "scope": "Experimental or superseded component; not part of the current deployment",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L45_common_hold/Delivery/zzz_Younuo_ZhanMaCommonHold_1006_P.pak",
+      "sha256": "6cedb03cc41a109b9546aa9932e1ee4e13531b6a3e900d199ae5eaf4ed410598"
+    },
+    {
+      "path": "Builds/AnimAlignment/L45_common_hold/Delivery/zzz_Younuo_ZhanMaCommonHold_1006_P.utoc",
+      "sha256": "e178e9e749e27319ae69e723ff405d438be87fbe89ee7116b23b741c535cf918"
+    },
+    {
+      "path": "Builds/AnimAlignment/L45_common_hold/Delivery/zzz_Younuo_ZhanMaCommonHold_1006_P.ucas",
+      "sha256": "4835920c2bb4304331886525413783051e0a62a265bf60a439051d8418764f71"
+    }
+  ]
+}
