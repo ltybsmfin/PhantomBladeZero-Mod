@@ -1,0 +1,18 @@
+{
+  "label": "1009",
+  "scope": "Component retained by the current distribution",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L49_all_weapon_trial/Delivery/zzz_Younuo_AllWeaponProfiles_1009_P.pak",
+      "sha256": "e2b4433314c6e6bbb432f0c51134364d656de079735654ef76fc038af0b7a780"
+    },
+    {
+      "path": "Builds/AnimAlignment/L49_all_weapon_trial/Delivery/zzz_Younuo_AllWeaponProfiles_1009_P.utoc",
+      "sha256": "c3809ca1fbb7cfd66c3dee16faa5799076dd5e7acfa25bf66d25e290ecc9eb38"
+    },
+    {
+      "path": "Builds/AnimAlignment/L49_all_weapon_trial/Delivery/zzz_Younuo_AllWeaponProfiles_1009_P.ucas",
+      "sha256": "c05a5f06c4e89c7ccfc018cdae09a1da3a157959710cda9e2c1d4e31ffbfadae"
+    }
+  ]
+}
