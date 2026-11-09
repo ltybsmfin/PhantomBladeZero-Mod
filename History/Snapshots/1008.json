@@ -1,0 +1,18 @@
+{
+  "label": "1008",
+  "scope": "Experimental or superseded component; not part of the current deployment",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L48_weapon_profiles/Delivery/zzz_Younuo_WeaponProfiles_1008_P.pak",
+      "sha256": "e178b39dc56406b67b0753f7d594a783aa3002c839dc832f0ac34f201fc55c31"
+    },
+    {
+      "path": "Builds/AnimAlignment/L48_weapon_profiles/Delivery/zzz_Younuo_WeaponProfiles_1008_P.utoc",
+      "sha256": "e370163360403fcd9e9511f4b8f369a1456a4f9a792fc5d98d1c4b9ceed81748"
+    },
+    {
+      "path": "Builds/AnimAlignment/L48_weapon_profiles/Delivery/zzz_Younuo_WeaponProfiles_1008_P.ucas",
+      "sha256": "5ebe9f6b834a3acb3e3160d93e84ebab0c2afbce870401741f7adf4e2866d8b2"
+    }
+  ]
+}
