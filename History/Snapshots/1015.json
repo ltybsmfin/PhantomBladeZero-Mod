@@ -1,0 +1,18 @@
+{
+  "label": "1015",
+  "scope": "Component retained by the current distribution",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L58_barefoot_runtime/Delivery/zzz_Younuo_BarefootBind_1015_P.pak",
+      "sha256": "ac794c72eb441d738f5cbe6a279453ba80284354c133a3078e76bc9205ebbb5a"
+    },
+    {
+      "path": "Builds/AnimAlignment/L58_barefoot_runtime/Delivery/zzz_Younuo_BarefootBind_1015_P.utoc",
+      "sha256": "b51c3e6f7e61f996ca5c360e0d65a78a3fd546eb8f65341e5921c1fa28c1ac9e"
+    },
+    {
+      "path": "Builds/AnimAlignment/L58_barefoot_runtime/Delivery/zzz_Younuo_BarefootBind_1015_P.ucas",
+      "sha256": "e8f9fb9acbd5652b56ee12b5c95188814584df1fd0fb30a1b60d7e829e54a462"
+    }
+  ]
+}
