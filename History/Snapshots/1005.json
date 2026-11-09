@@ -1,0 +1,18 @@
+{
+  "label": "1005",
+  "scope": "Experimental or superseded component; not part of the current deployment",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L43_gated_contact/Delivery/zzz_Younuo_ZhanMaLocomotionContact_1005_P.pak",
+      "sha256": "c8a65fa70fbc7568165895cfae2055cb5a65665d102ea35a4ece9f620cd088b8"
+    },
+    {
+      "path": "Builds/AnimAlignment/L43_gated_contact/Delivery/zzz_Younuo_ZhanMaLocomotionContact_1005_P.utoc",
+      "sha256": "328374c52ec885105f620f681d81b9c249d5f0814e1eafc34e43925d6f8bb1d5"
+    },
+    {
+      "path": "Builds/AnimAlignment/L43_gated_contact/Delivery/zzz_Younuo_ZhanMaLocomotionContact_1005_P.ucas",
+      "sha256": "349c0bf909edf6eb4e7199b639b7b49809fce6742df4e0f33fa948453272271b"
+    }
+  ]
+}
