@@ -1,0 +1,18 @@
+{
+  "label": "1001",
+  "scope": "Component retained by the current distribution",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L28_controls/Delivery/zzz_Younuo_F8Controls_1001_P.pak",
+      "sha256": "e6f21e18f9d5572be051769107c0311d4847fe5b746a675de2691863e3eef6bc"
+    },
+    {
+      "path": "Builds/AnimAlignment/L28_controls/Delivery/zzz_Younuo_F8Controls_1001_P.utoc",
+      "sha256": "fb09def2039479a17ecd14d12c2e230d43b7ada9ce18d258058d9a17a93fa19b"
+    },
+    {
+      "path": "Builds/AnimAlignment/L28_controls/Delivery/zzz_Younuo_F8Controls_1001_P.ucas",
+      "sha256": "fa86e3b4191c015d8ef2eecf0ab46b7a885e01c0cd63d116df3968de24166836"
+    }
+  ]
+}
