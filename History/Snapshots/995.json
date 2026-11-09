@@ -1,0 +1,18 @@
+{
+  "label": "995",
+  "scope": "Component retained by the current distribution",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L13_ik/runtime/zzz_Younuo_WeaponIK_995_P.pak",
+      "sha256": "8d3d724eb0ef7b75c25b0014d265f5284942e7107557c653a171e62dce1e4469"
+    },
+    {
+      "path": "Builds/AnimAlignment/L13_ik/runtime/zzz_Younuo_WeaponIK_995_P.utoc",
+      "sha256": "d7f72ee7a469d1acbeaf44202dc977f1674fe1cc719058419a72bcd8da0465fb"
+    },
+    {
+      "path": "Builds/AnimAlignment/L13_ik/runtime/zzz_Younuo_WeaponIK_995_P.ucas",
+      "sha256": "9c8454d6680d86e2259afd75e3d158ade7dc8b7e1b4fd368535ad8d7a04b360f"
+    }
+  ]
+}
