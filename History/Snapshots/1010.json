@@ -1,0 +1,18 @@
+{
+  "label": "1010",
+  "scope": "Component retained by the current distribution",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L50_joint_trial/Delivery/zzz_Younuo_JointDrive_1010_P.pak",
+      "sha256": "d29c38c9fe8518005072e29b684eb62d1397cb55d7d7ef5f98c4476d2f8647c5"
+    },
+    {
+      "path": "Builds/AnimAlignment/L50_joint_trial/Delivery/zzz_Younuo_JointDrive_1010_P.utoc",
+      "sha256": "ea384aa2cc01a62500a65c678bbf5bb4edb28d23524e5a2a131e88bc3065d620"
+    },
+    {
+      "path": "Builds/AnimAlignment/L50_joint_trial/Delivery/zzz_Younuo_JointDrive_1010_P.ucas",
+      "sha256": "3a9defcbd30de2c2f9a0e9ffe8644435b2dae7b9d2019f02dc664abd778bd326"
+    }
+  ]
+}
