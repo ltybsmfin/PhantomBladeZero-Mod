@@ -1,0 +1,18 @@
+{
+  "label": "1013",
+  "scope": "Experimental or superseded component; not part of the current deployment",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L53_barefoot_flat/Delivery/zzz_Younuo_BarefootFlat_1013_P.pak",
+      "sha256": "5498fac3e5c76f58286173a63c0a02999745831b5b1b58a346e2518808a0f010"
+    },
+    {
+      "path": "Builds/AnimAlignment/L53_barefoot_flat/Delivery/zzz_Younuo_BarefootFlat_1013_P.utoc",
+      "sha256": "c624812824bf449b5751d8aae9d169d2759f5d64f1c6117a00cbc02e908c2fce"
+    },
+    {
+      "path": "Builds/AnimAlignment/L53_barefoot_flat/Delivery/zzz_Younuo_BarefootFlat_1013_P.ucas",
+      "sha256": "0cbfeb1684f8594f38c55f730d33cbb241f386d7acdb32387381c4109bee383f"
+    }
+  ]
+}
