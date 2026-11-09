@@ -1,0 +1,18 @@
+{
+  "label": "1004",
+  "scope": "Experimental or superseded component; not part of the current deployment",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L40_locomotion_trial/Delivery/zzz_Younuo_ZhanMaLocomotionContact_1004_P.pak",
+      "sha256": "661e1c745bf9751600b26a8e3347a4c343075b45b16e443b97c9ec427424e2cd"
+    },
+    {
+      "path": "Builds/AnimAlignment/L40_locomotion_trial/Delivery/zzz_Younuo_ZhanMaLocomotionContact_1004_P.utoc",
+      "sha256": "a4e5ad8be693ff1d3234ee8e5062302badd9c4902a1fd31f53919f1bb29330fb"
+    },
+    {
+      "path": "Builds/AnimAlignment/L40_locomotion_trial/Delivery/zzz_Younuo_ZhanMaLocomotionContact_1004_P.ucas",
+      "sha256": "0529998a77c0f34cb2a22f5367e4dc3df825a1bc943d0dcca7564a323f8df4f7"
+    }
+  ]
+}
