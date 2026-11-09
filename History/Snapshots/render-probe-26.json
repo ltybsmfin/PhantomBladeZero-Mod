@@ -1,0 +1,18 @@
+{
+  "label": "render-probe-26",
+  "scope": "Isolated material probe from the rendering work line",
+  "files": [
+    {
+      "path": "Builds/YounuoRender_v01/Runtime/IntegratedHost/Delivery_Probe26/zzz_Younuo_MatProbe_26_P.pak",
+      "sha256": "7dcae54501e51c35b71d57798eff0df84e7b393ddbc3530fc897daf0dbd8859a"
+    },
+    {
+      "path": "Builds/YounuoRender_v01/Runtime/IntegratedHost/Delivery_Probe26/zzz_Younuo_MatProbe_26_P.utoc",
+      "sha256": "b222bf29eaadf5469bf13db5f0c102ab7f0bb67aa48bf50c58c15ac4a0b8ad13"
+    },
+    {
+      "path": "Builds/YounuoRender_v01/Runtime/IntegratedHost/Delivery_Probe26/zzz_Younuo_MatProbe_26_P.ucas",
+      "sha256": "cc2e028c726ea8e260c0ad14f2f1b97cf29ac91de7d4cc7906efe01f950a3253"
+    }
+  ]
+}
