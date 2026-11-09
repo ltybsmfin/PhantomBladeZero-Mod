@@ -1,0 +1,18 @@
+{
+  "label": "physics-v01",
+  "scope": "Archived cloth and secondary physics work line",
+  "files": [
+    {
+      "path": "Builds/YounuoPhysicsLook_v01/Runtime/PhysicsBranch/v01/zzz_Younuo_PhysicsBranch_v01_900_P.pak",
+      "sha256": "7b8946162485366eea981bdf3adbcdc9da738665bea79d03b9ef5c009ad21202"
+    },
+    {
+      "path": "Builds/YounuoPhysicsLook_v01/Runtime/PhysicsBranch/v01/zzz_Younuo_PhysicsBranch_v01_900_P.utoc",
+      "sha256": "8677d83916ef21e6138d72488bcc00c9faa0b6ba123a123010919992c5da6c38"
+    },
+    {
+      "path": "Builds/YounuoPhysicsLook_v01/Runtime/PhysicsBranch/v01/zzz_Younuo_PhysicsBranch_v01_900_P.ucas",
+      "sha256": "0980b495e953126a45999169254b9a6e3e212ece67e9d8aafdecbef3146039c5"
+    }
+  ]
+}
