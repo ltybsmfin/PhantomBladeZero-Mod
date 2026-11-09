@@ -1,0 +1,11 @@
+__pycache__/
+*.log
+*.dmp
+*.zip
+*.zip.sha256
+*.zip.tmp
+Saved/
+Intermediate/
+DerivedDataCache/
+YounuoInstallReceipt.json
+YounuoInstallBackup/
