@@ -1,0 +1,18 @@
+{
+  "label": "r09",
+  "scope": "Isolated early runtime experiment",
+  "files": [
+    {
+      "path": "Builds/RuntimeProbe/r09/NativePackage/zzz_Younuo_9_P.pak",
+      "sha256": "add640fe192d8d3464c497299eb31e35d0638e89524ec2dcbfa8961ad3164c80"
+    },
+    {
+      "path": "Builds/RuntimeProbe/r09/NativePackage/zzz_Younuo_9_P.utoc",
+      "sha256": "2859d5fa04230f67a008f01e4966873810ea3bb5330b8529645a5b247d973864"
+    },
+    {
+      "path": "Builds/RuntimeProbe/r09/NativePackage/zzz_Younuo_9_P.ucas",
+      "sha256": "1d8bca6afebbe582533f625df40377032c1395106f333903c26317f3abc06479"
+    }
+  ]
+}
