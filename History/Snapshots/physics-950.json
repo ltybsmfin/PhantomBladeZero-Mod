@@ -1,0 +1,18 @@
+{
+  "label": "physics-950",
+  "scope": "Later physics-fix component retained by the current distribution",
+  "files": [
+    {
+      "path": "Builds/YounuoPhysicsFix_v01/Runtime/Delivery/zzz_Younuo_PhysicsFix_v01_950_P.pak",
+      "sha256": "a376fbd520db21ff90a89df832fb57691d9c6f5cd915383e3299bfd7ce90f104"
+    },
+    {
+      "path": "Builds/YounuoPhysicsFix_v01/Runtime/Delivery/zzz_Younuo_PhysicsFix_v01_950_P.utoc",
+      "sha256": "4db436c3ba52a1e4ec10955420b87d7bb4585c5f1a9294cbfe124114469b11fa"
+    },
+    {
+      "path": "Builds/YounuoPhysicsFix_v01/Runtime/Delivery/zzz_Younuo_PhysicsFix_v01_950_P.ucas",
+      "sha256": "4a73e5144aadc6cdb1f18f0e858a25f003391206774f7aac9ebb50fd629e2146"
+    }
+  ]
+}
