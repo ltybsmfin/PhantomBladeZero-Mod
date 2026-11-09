@@ -1,2 +1,2 @@
-* text=auto
+* -text
 zzz_Younuo_Cumulative_15_P.ucas filter=lfs diff=lfs merge=lfs -text

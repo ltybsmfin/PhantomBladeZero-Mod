@@ -1,0 +1,18 @@
+{
+  "label": "r07",
+  "scope": "Original R07 increment preceding the cumulative baseline",
+  "files": [
+    {
+      "path": "Builds/RuntimeProbe/r07_pre_clean_20261104/NativePackage/zzz_Younuo_7_P.pak",
+      "sha256": "6b38d3f0b57d75a775442e9997c39720ca7fc673f83013c25d692f5cff1c94b4"
+    },
+    {
+      "path": "Builds/RuntimeProbe/r07_pre_clean_20261104/NativePackage/zzz_Younuo_7_P.utoc",
+      "sha256": "bc947c13564df73c2f46d37c3b298d638023a9243492fe8647da6326edee7b96"
+    },
+    {
+      "path": "Builds/RuntimeProbe/r07_pre_clean_20261104/NativePackage/zzz_Younuo_7_P.ucas",
+      "sha256": "18d609d6eb7bd07eb1963705c5d026d53985267e2ce572cd9f6b08c1be034c12"
+    }
+  ]
+}
