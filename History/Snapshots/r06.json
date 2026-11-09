@@ -1,0 +1,18 @@
+{
+  "label": "r06",
+  "scope": "Early runtime component archive",
+  "files": [
+    {
+      "path": "Builds/RuntimeProbe/r06/NativePackage/zzz_Younuo_6_P.pak",
+      "sha256": "2d69573c390bd3fecf8d0e497ba18d021c713a80c5b5ad2fc694098f3ebd0679"
+    },
+    {
+      "path": "Builds/RuntimeProbe/r06/NativePackage/zzz_Younuo_6_P.utoc",
+      "sha256": "20297611d8b30b47353e2c70dfa071e0273ac3d8c8623c202299dc3705ef48a3"
+    },
+    {
+      "path": "Builds/RuntimeProbe/r06/NativePackage/zzz_Younuo_6_P.ucas",
+      "sha256": "a4e2c3ba749d044a99f904a29747f1949b7a029362fa281b085f1c5f56e69ad2"
+    }
+  ]
+}
