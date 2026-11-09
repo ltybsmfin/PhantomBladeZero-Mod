@@ -1,0 +1,18 @@
+{
+  "label": "1002",
+  "scope": "Component retained by the current distribution",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L34_mesh_trial/Delivery/zzz_Younuo_WeightsTrial_1002_P.pak",
+      "sha256": "1d04942587bdfba63aa39a75011a170f8284411cd45761bcd3da62042958f0f7"
+    },
+    {
+      "path": "Builds/AnimAlignment/L34_mesh_trial/Delivery/zzz_Younuo_WeightsTrial_1002_P.utoc",
+      "sha256": "cacb7f87c2c8c865fcb0482b1d6e8a243ea87b81fac18ee8fc2176695c3136ae"
+    },
+    {
+      "path": "Builds/AnimAlignment/L34_mesh_trial/Delivery/zzz_Younuo_WeightsTrial_1002_P.ucas",
+      "sha256": "d778cee0512d9ca9bf5f3714f5cd60e151a2bb385b274f609a6f8b14dc56d4cb"
+    }
+  ]
+}
