@@ -1,0 +1,18 @@
+{
+  "label": "17",
+  "scope": "Historical alternate finger-grip experiment",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L8_loose_grip/runtime/Delivery/zzz_Younuo_FingerFix_17_P.pak",
+      "sha256": "b276a86e7d6a8cfe045aa2285ee85de4f0d75a43067e1fa13c69023a9f01fe25"
+    },
+    {
+      "path": "Builds/AnimAlignment/L8_loose_grip/runtime/Delivery/zzz_Younuo_FingerFix_17_P.utoc",
+      "sha256": "74795feaf6e05774fcfba0c0555adb4b73d3d89e3e76c6692c089a2d4b6f2431"
+    },
+    {
+      "path": "Builds/AnimAlignment/L8_loose_grip/runtime/Delivery/zzz_Younuo_FingerFix_17_P.ucas",
+      "sha256": "f483b4c16844e4df3fb94fc31dc7f44153b1690225f0bc289768539027d31c59"
+    }
+  ]
+}
