@@ -1,0 +1,12 @@
+version=2
+hair=50
+chest=50
+skirt=50
+skirt_physics=1
+skirt_self_collision=1
+skirt_collision_scope=adjacent
+skirt_precision=normal
+shoes_visible=1
+barefoot_pose=1
+barefoot_height_cm=0.944533035
+back_weapons_visible=1

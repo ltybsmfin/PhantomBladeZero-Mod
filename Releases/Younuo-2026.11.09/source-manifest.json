@@ -1,0 +1,675 @@
+{
+  "release": "2026.11.09",
+  "game": {
+    "platform": "Windows x64 / Steam",
+    "app_id": "4115450",
+    "executable": "platform/steam/PBZ.exe"
+  },
+  "containers": [
+    "zzz_Younuo_AllWeaponProfiles_1009_P",
+    "zzz_Younuo_BarefootBind_1015_P",
+    "zzz_Younuo_BarefootHeelLock_1014_P",
+    "zzz_Younuo_BarefootLoader_1016_P",
+    "zzz_Younuo_Barefoot_1011_P",
+    "zzz_Younuo_CoEyeTex_01_P",
+    "zzz_Younuo_Cumulative_15_P",
+    "zzz_Younuo_F8Controls_1001_P",
+    "zzz_Younuo_FootShape_1012_P",
+    "zzz_Younuo_JointDrive_1010_P",
+    "zzz_Younuo_NativeIKPhysics_997_P",
+    "zzz_Younuo_PhysicsBranch_v11_900_P",
+    "zzz_Younuo_PhysicsFix_v01_950_P",
+    "zzz_Younuo_Socket_990_P",
+    "zzz_Younuo_WeaponIK_995_P",
+    "zzz_Younuo_WeaponL_998_P",
+    "zzz_Younuo_WeightsTrial_1002_P",
+    "zzz_Younuo_ZhanMaIdleContact_1003_P"
+  ],
+  "external_dependencies": [
+    {
+      "name": "Resource loader",
+      "used_by": "01-Core",
+      "url": "https://github.com/rm-NoobInCoding/UniversalSigBypasser/releases",
+      "bundled": false,
+      "install_paths": [
+        "platform/steam/dsound.dll",
+        "platform/steam/UniversalSigBypasser.asi"
+      ]
+    },
+    {
+      "name": "PBZ UE4SS 3.0.1 Beta cdbc0b66c",
+      "used_by": "F8 and 02-Toon",
+      "url": "https://github.com/KintaroModding/ue4ss/releases/tag/v3.0.1-1183-gcdbc0b66-r2",
+      "bundled": false,
+      "install_paths": [
+        "platform/steam/dwmapi.dll",
+        "platform/steam/ue4ss/UE4SS.dll"
+      ]
+    },
+    {
+      "name": "ReShade 6.7.3 x64 with full Add-on support",
+      "used_by": "02-Toon",
+      "url": "https://reshade.me/downloads/ReShade_Setup_6.7.3_Addon.exe",
+      "bundled": false,
+      "install_paths": [
+        "platform/steam/dxgi.dll"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_AllWeaponProfiles_1009_P.pak",
+      "source": "Builds/AnimAlignment/L49_all_weapon_trial/Delivery/zzz_Younuo_AllWeaponProfiles_1009_P.pak",
+      "size": 339,
+      "sha256": "e2b4433314c6e6bbb432f0c51134364d656de079735654ef76fc038af0b7a780",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_AllWeaponProfiles_1009_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_AllWeaponProfiles_1009_P.ucas",
+      "source": "Builds/AnimAlignment/L49_all_weapon_trial/Delivery/zzz_Younuo_AllWeaponProfiles_1009_P.ucas",
+      "size": 133744,
+      "sha256": "c05a5f06c4e89c7ccfc018cdae09a1da3a157959710cda9e2c1d4e31ffbfadae",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_AllWeaponProfiles_1009_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_AllWeaponProfiles_1009_P.utoc",
+      "source": "Builds/AnimAlignment/L49_all_weapon_trial/Delivery/zzz_Younuo_AllWeaponProfiles_1009_P.utoc",
+      "size": 910,
+      "sha256": "c3809ca1fbb7cfd66c3dee16faa5799076dd5e7acfa25bf66d25e290ecc9eb38",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_AllWeaponProfiles_1009_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootBind_1015_P.pak",
+      "source": "Builds/AnimAlignment/L58_barefoot_runtime/Delivery/zzz_Younuo_BarefootBind_1015_P.pak",
+      "size": 339,
+      "sha256": "ac794c72eb441d738f5cbe6a279453ba80284354c133a3078e76bc9205ebbb5a",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootBind_1015_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootBind_1015_P.ucas",
+      "source": "Builds/AnimAlignment/L58_barefoot_runtime/Delivery/zzz_Younuo_BarefootBind_1015_P.ucas",
+      "size": 2046288,
+      "sha256": "e8f9fb9acbd5652b56ee12b5c95188814584df1fd0fb30a1b60d7e829e54a462",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootBind_1015_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootBind_1015_P.utoc",
+      "source": "Builds/AnimAlignment/L58_barefoot_runtime/Delivery/zzz_Younuo_BarefootBind_1015_P.utoc",
+      "size": 1415,
+      "sha256": "b51c3e6f7e61f996ca5c360e0d65a78a3fd546eb8f65341e5921c1fa28c1ac9e",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootBind_1015_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootHeelLock_1014_P.pak",
+      "source": "Builds/AnimAlignment/L54_foot_contour/Delivery/zzz_Younuo_BarefootHeelLock_1014_P.pak",
+      "size": 339,
+      "sha256": "d68fd574fb5fc923ba2eb7f8d481cb9144cdb3f5ebc4176b302927fb7fe0ed1d",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootHeelLock_1014_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootHeelLock_1014_P.ucas",
+      "source": "Builds/AnimAlignment/L54_foot_contour/Delivery/zzz_Younuo_BarefootHeelLock_1014_P.ucas",
+      "size": 2152192,
+      "sha256": "e81088af216dc6d82216935384537c5e8b4c8b15e76f55fe2c8294bc0fbebf73",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootHeelLock_1014_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootHeelLock_1014_P.utoc",
+      "source": "Builds/AnimAlignment/L54_foot_contour/Delivery/zzz_Younuo_BarefootHeelLock_1014_P.utoc",
+      "size": 1815,
+      "sha256": "e49c88f695c2459e832697a96cd1e9232fa28c1592a9ecb09edf4889ca15e17a",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootHeelLock_1014_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootLoader_1016_P.pak",
+      "source": "Builds/AnimAlignment/L59_barefoot_loader/Delivery/zzz_Younuo_BarefootLoader_1016_P.pak",
+      "size": 339,
+      "sha256": "86f01fe7574a9bb7bde7a379b3b5731c5979ca32db4e23b0ecb93cb7d9ad2ab5",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootLoader_1016_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootLoader_1016_P.ucas",
+      "source": "Builds/AnimAlignment/L59_barefoot_loader/Delivery/zzz_Younuo_BarefootLoader_1016_P.ucas",
+      "size": 25504,
+      "sha256": "e01d7e8043f8aba134f0d00243676409f870f75909d088b00b1e3e0c9de72d6c",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootLoader_1016_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootLoader_1016_P.utoc",
+      "source": "Builds/AnimAlignment/L59_barefoot_loader/Delivery/zzz_Younuo_BarefootLoader_1016_P.utoc",
+      "size": 507,
+      "sha256": "d9bd825b047fcc018d5a634425250c4e0db5545c20dffb346b2678138b1e39e7",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_BarefootLoader_1016_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Barefoot_1011_P.pak",
+      "source": "Builds/AnimAlignment/L51_barefoot/Delivery/zzz_Younuo_Barefoot_1011_P.pak",
+      "size": 339,
+      "sha256": "221eaa71046991f777e2abde654aa2afd4d58775ea55237b933a2b7e557f1c80",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Barefoot_1011_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Barefoot_1011_P.ucas",
+      "source": "Builds/AnimAlignment/L51_barefoot/Delivery/zzz_Younuo_Barefoot_1011_P.ucas",
+      "size": 119568,
+      "sha256": "342059ca089b6e1899a5c6190f4e4a308a75a9563b70be629254bf8eac419388",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Barefoot_1011_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Barefoot_1011_P.utoc",
+      "source": "Builds/AnimAlignment/L51_barefoot/Delivery/zzz_Younuo_Barefoot_1011_P.utoc",
+      "size": 766,
+      "sha256": "aa1614b5b7749b5d7758b0580a74b9382a9a709894eecf6cb6697bfa549e4d1e",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Barefoot_1011_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_CoEyeTex_01_P.pak",
+      "source": "Builds/YounuoToonInjection_v01/Runtime/EyeTexFix/Delivery/zzz_Younuo_CoEyeTex_01_P.pak",
+      "size": 339,
+      "sha256": "d1b30823cbccdca22f3f35928899fc6b83fd78571d8a9f1e1dd96ab292f96ddf",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_CoEyeTex_01_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_CoEyeTex_01_P.ucas",
+      "source": "Builds/YounuoToonInjection_v01/Runtime/EyeTexFix/Delivery/zzz_Younuo_CoEyeTex_01_P.ucas",
+      "size": 522544,
+      "sha256": "b6cd6b20093786505835d7e3acb3df1ff3d82c6c2f74fdac049dbf0881b350dd",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_CoEyeTex_01_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_CoEyeTex_01_P.utoc",
+      "source": "Builds/YounuoToonInjection_v01/Runtime/EyeTexFix/Delivery/zzz_Younuo_CoEyeTex_01_P.utoc",
+      "size": 2238,
+      "sha256": "ac67387922c3231e1e976a6064830511475cd41709ec8ea2fb4822f7080882e2",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_CoEyeTex_01_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Cumulative_15_P.pak",
+      "source": "Builds/RuntimeProbe/r03_07_cumulative/NativePackage/zzz_Younuo_Cumulative_15_P.pak",
+      "size": 339,
+      "sha256": "698edbbc1e2feaca89851c35b22c077f92c2a1681a1fdbf4eeb5df477195f572",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Cumulative_15_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Cumulative_15_P.ucas",
+      "source": "Builds/YounuoToonInjection_v01/Diagnostics/TextureQuality/MetalPilot/MixHighlight/OriginalOrder/merged-delivery/zzz_Younuo_Cumulative_15_P.ucas",
+      "size": 111276831,
+      "sha256": "cb22f1e0e9400aa04b2a2660ce65abf6bf9d5ff758f9685eb61d17fc959d4a72",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Cumulative_15_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Cumulative_15_P.utoc",
+      "source": "Builds/YounuoToonInjection_v01/Diagnostics/TextureQuality/MetalPilot/MixHighlight/OriginalOrder/merged-delivery/zzz_Younuo_Cumulative_15_P.utoc",
+      "size": 31036,
+      "sha256": "4fd8b3e1d9139dd95f68b7884aefc5f4993cabffb8013652ea95836d887c2c9c",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Cumulative_15_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_F8Controls_1001_P.pak",
+      "source": "Builds/AnimAlignment/L28_controls/Delivery/zzz_Younuo_F8Controls_1001_P.pak",
+      "size": 339,
+      "sha256": "e6f21e18f9d5572be051769107c0311d4847fe5b746a675de2691863e3eef6bc",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_F8Controls_1001_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_F8Controls_1001_P.ucas",
+      "source": "Builds/AnimAlignment/L28_controls/Delivery/zzz_Younuo_F8Controls_1001_P.ucas",
+      "size": 757520,
+      "sha256": "fa86e3b4191c015d8ef2eecf0ab46b7a885e01c0cd63d116df3968de24166836",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_F8Controls_1001_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_F8Controls_1001_P.utoc",
+      "source": "Builds/AnimAlignment/L28_controls/Delivery/zzz_Younuo_F8Controls_1001_P.utoc",
+      "size": 4932,
+      "sha256": "fb09def2039479a17ecd14d12c2e230d43b7ada9ce18d258058d9a17a93fa19b",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_F8Controls_1001_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_FootShape_1012_P.pak",
+      "source": "Builds/AnimAlignment/L52_foot_shape/Delivery/zzz_Younuo_FootShape_1012_P.pak",
+      "size": 339,
+      "sha256": "8f3f5de1eda6471790e452906b02f420a78a3b4b45f465986d053bb04f27dd93",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_FootShape_1012_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_FootShape_1012_P.ucas",
+      "source": "Builds/AnimAlignment/L52_foot_shape/Delivery/zzz_Younuo_FootShape_1012_P.ucas",
+      "size": 85232,
+      "sha256": "ad994a7403a4c9623a821da79b1706bf90589883031425ad3658aceea0cd43c0",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_FootShape_1012_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_FootShape_1012_P.utoc",
+      "source": "Builds/AnimAlignment/L52_foot_shape/Delivery/zzz_Younuo_FootShape_1012_P.utoc",
+      "size": 490,
+      "sha256": "cd295004a2a0071163c7cbd61a2cf18d683a8041fe280d608a48c456cb3b0c66",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_FootShape_1012_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_JointDrive_1010_P.pak",
+      "source": "Builds/AnimAlignment/L50_joint_trial/Delivery/zzz_Younuo_JointDrive_1010_P.pak",
+      "size": 339,
+      "sha256": "d29c38c9fe8518005072e29b684eb62d1397cb55d7d7ef5f98c4476d2f8647c5",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_JointDrive_1010_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_JointDrive_1010_P.ucas",
+      "source": "Builds/AnimAlignment/L50_joint_trial/Delivery/zzz_Younuo_JointDrive_1010_P.ucas",
+      "size": 83760,
+      "sha256": "3a9defcbd30de2c2f9a0e9ffe8644435b2dae7b9d2019f02dc664abd778bd326",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_JointDrive_1010_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_JointDrive_1010_P.utoc",
+      "source": "Builds/AnimAlignment/L50_joint_trial/Delivery/zzz_Younuo_JointDrive_1010_P.utoc",
+      "size": 490,
+      "sha256": "ea384aa2cc01a62500a65c678bbf5bb4edb28d23524e5a2a131e88bc3065d620",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_JointDrive_1010_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_NativeIKPhysics_997_P.pak",
+      "source": "Builds/AnimAlignment/L26_grip_physics_restore/Delivery/zzz_Younuo_NativeIKPhysics_997_P.pak",
+      "size": 339,
+      "sha256": "10eddf7750b571d8493c3596a15ada4bfa2fda5746f0e836ad8308baa2efe2a1",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_NativeIKPhysics_997_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_NativeIKPhysics_997_P.ucas",
+      "source": "Builds/AnimAlignment/L26_grip_physics_restore/Delivery/zzz_Younuo_NativeIKPhysics_997_P.ucas",
+      "size": 12408608,
+      "sha256": "aab211f706f558c66a1862e1fecf1587025f03893cc78c1edaccc6711c54dffc",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_NativeIKPhysics_997_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_NativeIKPhysics_997_P.utoc",
+      "source": "Builds/AnimAlignment/L26_grip_physics_restore/Delivery/zzz_Younuo_NativeIKPhysics_997_P.utoc",
+      "size": 8047,
+      "sha256": "7244a3c9bc169e9c3972936532ebac7e855d86b6a6fd0ff659d2e4f2f1ba5d10",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_NativeIKPhysics_997_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_PhysicsBranch_v11_900_P.pak",
+      "source": "Builds/YounuoPhysicsLook_v01/Runtime/PhysicsBranch/v11/zzz_Younuo_PhysicsBranch_v11_900_P.pak",
+      "size": 339,
+      "sha256": "fd539c949a73ca299f408eebb0cb9a7ac8214775f355bbc7af11a146eaffe005",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_PhysicsBranch_v11_900_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_PhysicsBranch_v11_900_P.ucas",
+      "source": "Builds/YounuoPhysicsLook_v01/Runtime/PhysicsBranch/v11/zzz_Younuo_PhysicsBranch_v11_900_P.ucas",
+      "size": 73440,
+      "sha256": "6d52c5178b2f42a1f6fddc0ecb9ffa2e844ea0911f002927940551e2ce95acd6",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_PhysicsBranch_v11_900_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_PhysicsBranch_v11_900_P.utoc",
+      "source": "Builds/YounuoPhysicsLook_v01/Runtime/PhysicsBranch/v11/zzz_Younuo_PhysicsBranch_v11_900_P.utoc",
+      "size": 1030,
+      "sha256": "cd7a38e25563e5980971739e937584231a6fe64294372a6ca9023f0e0b9e6779",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_PhysicsBranch_v11_900_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_PhysicsFix_v01_950_P.pak",
+      "source": "Builds/YounuoPhysicsFix_v01/Runtime/Delivery/zzz_Younuo_PhysicsFix_v01_950_P.pak",
+      "size": 339,
+      "sha256": "a376fbd520db21ff90a89df832fb57691d9c6f5cd915383e3299bfd7ce90f104",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_PhysicsFix_v01_950_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_PhysicsFix_v01_950_P.ucas",
+      "source": "Builds/YounuoPhysicsFix_v01/Runtime/Delivery/zzz_Younuo_PhysicsFix_v01_950_P.ucas",
+      "size": 86992,
+      "sha256": "4a73e5144aadc6cdb1f18f0e858a25f003391206774f7aac9ebb50fd629e2146",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_PhysicsFix_v01_950_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_PhysicsFix_v01_950_P.utoc",
+      "source": "Builds/YounuoPhysicsFix_v01/Runtime/Delivery/zzz_Younuo_PhysicsFix_v01_950_P.utoc",
+      "size": 1021,
+      "sha256": "4db436c3ba52a1e4ec10955420b87d7bb4585c5f1a9294cbfe124114469b11fa",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_PhysicsFix_v01_950_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Socket_990_P.pak",
+      "source": "Builds/AnimAlignment/L9_grip_pack/runtime/zzz_Younuo_Socket_990_P.pak",
+      "size": 339,
+      "sha256": "442a9e2b3ee95c0737d229f2a889b0981428c1b6c10a4362306bd03477c91030",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Socket_990_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Socket_990_P.ucas",
+      "source": "Builds/AnimAlignment/L9_grip_pack/runtime/zzz_Younuo_Socket_990_P.ucas",
+      "size": 12252832,
+      "sha256": "57f8cd0a559171267a32d096399862ede6e3a29a538d5890abf7731e7812ec14",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Socket_990_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Socket_990_P.utoc",
+      "source": "Builds/AnimAlignment/L9_grip_pack/runtime/zzz_Younuo_Socket_990_P.utoc",
+      "size": 6913,
+      "sha256": "0a1b3f7105437acc088635ca7aef5d017ac19fd8b56c9264161e0ccdff5cbb63",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_Socket_990_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeaponIK_995_P.pak",
+      "source": "Builds/AnimAlignment/L13_ik/runtime/zzz_Younuo_WeaponIK_995_P.pak",
+      "size": 339,
+      "sha256": "8d3d724eb0ef7b75c25b0014d265f5284942e7107557c653a171e62dce1e4469",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeaponIK_995_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeaponIK_995_P.ucas",
+      "source": "Builds/AnimAlignment/L13_ik/runtime/zzz_Younuo_WeaponIK_995_P.ucas",
+      "size": 36176,
+      "sha256": "9c8454d6680d86e2259afd75e3d158ade7dc8b7e1b4fd368535ad8d7a04b360f",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeaponIK_995_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeaponIK_995_P.utoc",
+      "source": "Builds/AnimAlignment/L13_ik/runtime/zzz_Younuo_WeaponIK_995_P.utoc",
+      "size": 558,
+      "sha256": "d7f72ee7a469d1acbeaf44202dc977f1674fe1cc719058419a72bcd8da0465fb",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeaponIK_995_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeaponL_998_P.pak",
+      "source": "Builds/AnimAlignment/L27_native_grip_target/Delivery/zzz_Younuo_WeaponL_998_P.pak",
+      "size": 339,
+      "sha256": "04a44a994eade664dec88210d3045646808ee192146ad9a9059499956d9f43ab",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeaponL_998_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeaponL_998_P.ucas",
+      "source": "Builds/AnimAlignment/L27_native_grip_target/Delivery/zzz_Younuo_WeaponL_998_P.ucas",
+      "size": 31968,
+      "sha256": "54a054c70269e4aadcc0f44c1a2e4dc69d6d0b619181ff27f44814571938cfd6",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeaponL_998_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeaponL_998_P.utoc",
+      "source": "Builds/AnimAlignment/L27_native_grip_target/Delivery/zzz_Younuo_WeaponL_998_P.utoc",
+      "size": 450,
+      "sha256": "5b69004f37bf82b17e20ebc9b85a4020b924ad1771225e3151cb158ac4b4f3c9",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeaponL_998_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeightsTrial_1002_P.pak",
+      "source": "Builds/AnimAlignment/L34_mesh_trial/Delivery/zzz_Younuo_WeightsTrial_1002_P.pak",
+      "size": 339,
+      "sha256": "1d04942587bdfba63aa39a75011a170f8284411cd45761bcd3da62042958f0f7",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeightsTrial_1002_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeightsTrial_1002_P.ucas",
+      "source": "Builds/AnimAlignment/L34_mesh_trial/Delivery/zzz_Younuo_WeightsTrial_1002_P.ucas",
+      "size": 2046288,
+      "sha256": "d778cee0512d9ca9bf5f3714f5cd60e151a2bb385b274f609a6f8b14dc56d4cb",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeightsTrial_1002_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeightsTrial_1002_P.utoc",
+      "source": "Builds/AnimAlignment/L34_mesh_trial/Delivery/zzz_Younuo_WeightsTrial_1002_P.utoc",
+      "size": 1444,
+      "sha256": "cacb7f87c2c8c865fcb0482b1d6e8a243ea87b81fac18ee8fc2176695c3136ae",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_WeightsTrial_1002_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_ZhanMaIdleContact_1003_P.pak",
+      "source": "Builds/AnimAlignment/L37_native_idle_trial/Delivery/zzz_Younuo_ZhanMaIdleContact_1003_P.pak",
+      "size": 339,
+      "sha256": "df8aaaf1ce96a84999c95fb1efdeb4555e96f2f8784f0d44c3fdac414ac635c5",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_ZhanMaIdleContact_1003_P.pak",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_ZhanMaIdleContact_1003_P.ucas",
+      "source": "Builds/AnimAlignment/L37_native_idle_trial/Delivery/zzz_Younuo_ZhanMaIdleContact_1003_P.ucas",
+      "size": 80672,
+      "sha256": "84240da0260f36368c8c142dcc30d0fcc0f6ccacc9885669a2fc536bec4b91ba",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_ZhanMaIdleContact_1003_P.ucas",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/ProjectPBZ/Content/Paks/~mods/zzz_Younuo_ZhanMaIdleContact_1003_P.utoc",
+      "source": "Builds/AnimAlignment/L37_native_idle_trial/Delivery/zzz_Younuo_ZhanMaIdleContact_1003_P.utoc",
+      "size": 502,
+      "sha256": "a52c0f2b9e794942b0cc2a67627edce953e80d359d1edf2053d410f212e24948",
+      "install_path": "ProjectPBZ/Content/Paks/~mods/zzz_Younuo_ZhanMaIdleContact_1003_P.utoc",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/platform/steam/ue4ss/Mods/YounuoPhysicsPanel/Scripts/control_config.lua",
+      "source": "Builds/AnimAlignment/L60_back_weapon_visibility/F8/Runtime/Scripts/control_config.lua",
+      "size": 3254,
+      "sha256": "c6d2f3510e10f790df45d36e8a8af804a647dd029db81a25b7fe55b0489e64c5",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoPhysicsPanel/Scripts/control_config.lua",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/platform/steam/ue4ss/Mods/YounuoPhysicsPanel/Scripts/main.lua",
+      "source": "Builds/AnimAlignment/L60_back_weapon_visibility/F8/Runtime/Scripts/main.lua",
+      "size": 35339,
+      "sha256": "75bb74aedf4e7a2cc6f36ed826ae1f10c8292f7b4ca71422a51299022cdc86ed",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoPhysicsPanel/Scripts/main.lua",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/platform/steam/ue4ss/Mods/YounuoPhysicsPanel/Scripts/settings_parser.lua",
+      "source": "Builds/AnimAlignment/L60_back_weapon_visibility/F8/Runtime/Scripts/settings_parser.lua",
+      "size": 6198,
+      "sha256": "281e9f0e3c5bf81058f6c411fb1e68255590b5ea0a488b28c7b5e3791b213971",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoPhysicsPanel/Scripts/settings_parser.lua",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/platform/steam/ue4ss/Mods/YounuoPhysicsPanel/YounuoPhysicsPanel.exe",
+      "source": "Builds/AnimAlignment/L51_barefoot/F8/Runtime/YounuoPhysicsPanel.exe",
+      "size": 31744,
+      "sha256": "9ec5e3561fefd6c146663ccb805450b30a9b80e74bc8e2c0b4f80e2a08f6f64b",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoPhysicsPanel/YounuoPhysicsPanel.exe",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/platform/steam/ue4ss/Mods/YounuoPhysicsPanel/defaults.txt",
+      "source": "Releases/Younuo-2026.11.09/Inputs/Runtime/platform/steam/ue4ss/Mods/YounuoPhysicsPanel/defaults.txt",
+      "size": 31,
+      "sha256": "cbf0b252ab7b69219e41eca1e62c3587a90ff3ef1fb4e28ed090c5fb9927ab09",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoPhysicsPanel/defaults.txt",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/platform/steam/ue4ss/Mods/YounuoPhysicsPanel/enabled.txt",
+      "source": "Releases/Younuo-2026.11.09/Inputs/Runtime/platform/steam/ue4ss/Mods/YounuoPhysicsPanel/enabled.txt",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoPhysicsPanel/enabled.txt",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "01-Core/platform/steam/ue4ss/Mods/YounuoPhysicsPanel/settings.txt",
+      "source": "Releases/Younuo-2026.11.09/Inputs/settings.txt",
+      "size": 215,
+      "sha256": "e021e36f57bcdf33cd778fd989ad760b322f1006fecc3e8d565ecd6f0eada973",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoPhysicsPanel/settings.txt",
+      "layer": "01-Core"
+    },
+    {
+      "archive_path": "02-Toon/platform/steam/HideReShadeNotifications.bat",
+      "source": "Releases/Younuo-2026.11.09/Setup/HideReShadeNotifications.bat",
+      "size": 270,
+      "sha256": "62ce2e11733c139583307a92748821b206862807d7b46e3bfffb3d7a89b05391",
+      "install_path": "platform/steam/HideReShadeNotifications.bat",
+      "layer": "02-Toon"
+    },
+    {
+      "archive_path": "02-Toon/platform/steam/HideReShadeNotifications.ps1",
+      "source": "Releases/Younuo-2026.11.09/Setup/HideReShadeNotifications.ps1",
+      "size": 1888,
+      "sha256": "347eaf8a0cd2c2395a22012d751527785259900d17abfd3cb54795225e62dde6",
+      "install_path": "platform/steam/HideReShadeNotifications.ps1",
+      "layer": "02-Toon"
+    },
+    {
+      "archive_path": "02-Toon/platform/steam/YounuoAttach.exe",
+      "source": "Builds/YounuoToonInjection_v01/Tools/YounuoAttach.exe",
+      "size": 12800,
+      "sha256": "b7db32a3686e0d41b2ca56bd0b9c8402fe0abad4047f5961bc53f87d7f183abb",
+      "install_path": "platform/steam/YounuoAttach.exe",
+      "layer": "02-Toon"
+    },
+    {
+      "archive_path": "02-Toon/platform/steam/renodx-dev/live/0xCA4CA643.ps_6_6.hlsl",
+      "source": "Builds/YounuoToonInjection_v01/Diagnostics/TextureQuality/Runtime/07-toon-vt-feedback/0xCA4CA643.ps_6_6.hlsl",
+      "size": 106853,
+      "sha256": "5559ed94fb5521ab9140cac640310e6aa2157cd138fb2b39de3ed41cd1e42a39",
+      "install_path": "platform/steam/renodx-dev/live/0xCA4CA643.ps_6_6.hlsl",
+      "layer": "02-Toon"
+    },
+    {
+      "archive_path": "02-Toon/platform/steam/renodx-devkit.addon64",
+      "source": "Builds/YounuoToonInjection_v01/Tools/renodx/build_vs/Release/renodx-devkit.addon64",
+      "size": 2892288,
+      "sha256": "8abab18729341c7271859acf18a825946c9d797889811c27571d7aa9ba9ab541",
+      "install_path": "platform/steam/renodx-devkit.addon64",
+      "layer": "02-Toon"
+    },
+    {
+      "archive_path": "02-Toon/platform/steam/ue4ss/Mods/YounuoAutoToon/Scripts/main.lua",
+      "source": "Builds/YounuoToonInjection_v01/Runtime/UE4SS/Mods/YounuoAutoToon/Scripts/main.lua",
+      "size": 6286,
+      "sha256": "93e63566a232b857079feb26eb788c3f41e9a908d60a4f63e42afd945ebb068c",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoAutoToon/Scripts/main.lua",
+      "layer": "02-Toon"
+    },
+    {
+      "archive_path": "02-Toon/platform/steam/ue4ss/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_adapter.lua",
+      "source": "Builds/YounuoToonInjection_v01/Runtime/UE4SS/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_adapter.lua",
+      "size": 7122,
+      "sha256": "efae2efd3e89d9978a94ae849349ee9b4e5fd41a643da2494aca4906b8e931c9",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_adapter.lua",
+      "layer": "02-Toon"
+    },
+    {
+      "archive_path": "02-Toon/platform/steam/ue4ss/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_attach.lua",
+      "source": "Builds/YounuoToonInjection_v01/Runtime/UE4SS/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_attach.lua",
+      "size": 14521,
+      "sha256": "c66ab84b5ba0215feb3ec5d55002b41f84c131cd809077adc605264df8a3205a",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_attach.lua",
+      "layer": "02-Toon"
+    },
+    {
+      "archive_path": "02-Toon/platform/steam/ue4ss/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_config.lua",
+      "source": "Builds/YounuoToonInjection_v01/Runtime/UE4SS/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_config.lua",
+      "size": 5898,
+      "sha256": "3e56cfc3245465836afd5aeb9c5e1f6de93586d9ae5e4f29f9ed943dc8200e88",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_config.lua",
+      "layer": "02-Toon"
+    },
+    {
+      "archive_path": "02-Toon/platform/steam/ue4ss/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_log.lua",
+      "source": "Builds/YounuoToonInjection_v01/Runtime/UE4SS/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_log.lua",
+      "size": 1083,
+      "sha256": "bf072c902e55daa77828d289b67d6897c3e1faac18d5b9fd8eceb4e2f93fbef0",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_log.lua",
+      "layer": "02-Toon"
+    },
+    {
+      "archive_path": "02-Toon/platform/steam/ue4ss/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_readiness.lua",
+      "source": "Builds/YounuoToonInjection_v01/Runtime/UE4SS/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_readiness.lua",
+      "size": 5559,
+      "sha256": "7b74467bf85c727d1b523384ae6d377c0a5558e61146a7f99656fca06747f880",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoAutoToon/Scripts/younuo_auto_toon_readiness.lua",
+      "layer": "02-Toon"
+    },
+    {
+      "archive_path": "02-Toon/platform/steam/ue4ss/Mods/YounuoAutoToon/enabled.txt",
+      "source": "Builds/YounuoToonInjection_v01/Runtime/UE4SS/Mods/YounuoAutoToon/enabled.txt",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "install_path": "platform/steam/ue4ss/Mods/YounuoAutoToon/enabled.txt",
+      "layer": "02-Toon"
+    },
+    {
+      "archive_path": "Install-Younuo.exe",
+      "source": "Releases/Younuo-2026.11.09/Install-Younuo.exe",
+      "size": 4096,
+      "sha256": "95fc19c2434d57be8636e652b6d06a401b0c9140f274d3aa72d4a6e6fea9f60c"
+    },
+    {
+      "archive_path": "LICENSES/RenoDX.txt",
+      "source": "Builds/YounuoToonInjection_v01/Tools/renodx/LICENSE",
+      "size": 1094,
+      "sha256": "6de6df45ddfdb4ba99ef770a5d65988f73d0c10cb678550691054455e57dafa0"
+    },
+    {
+      "archive_path": "README.md",
+      "source": "Releases/Younuo-2026.11.09/README.md",
+      "size": 10186,
+      "sha256": "160128137f6f158e3b667729a8389456f4baf43395d605ff8bbcaaf21d4f155e"
+    },
+    {
+      "archive_path": "Setup/Deploy.ps1",
+      "source": "Releases/Younuo-2026.11.09/Setup/Deploy.ps1",
+      "size": 17462,
+      "sha256": "5d9acfe696702a3462b0a313d9aed7513db4fd7b3f693c169eab03612ad61c92"
+    },
+    {
+      "archive_path": "Uninstall-Younuo.exe",
+      "source": "Releases/Younuo-2026.11.09/Uninstall-Younuo.exe",
+      "size": 4096,
+      "sha256": "eaf5388a5018f3ec09a43f7becf196914eb063963ff361b9f462fa3676aef972"
+    }
+  ]
+}
