@@ -1,0 +1,18 @@
+{
+  "label": "997",
+  "scope": "Component retained by the current distribution",
+  "files": [
+    {
+      "path": "Builds/AnimAlignment/L26_grip_physics_restore/Delivery/zzz_Younuo_NativeIKPhysics_997_P.pak",
+      "sha256": "10eddf7750b571d8493c3596a15ada4bfa2fda5746f0e836ad8308baa2efe2a1"
+    },
+    {
+      "path": "Builds/AnimAlignment/L26_grip_physics_restore/Delivery/zzz_Younuo_NativeIKPhysics_997_P.utoc",
+      "sha256": "7244a3c9bc169e9c3972936532ebac7e855d86b6a6fd0ff659d2e4f2f1ba5d10"
+    },
+    {
+      "path": "Builds/AnimAlignment/L26_grip_physics_restore/Delivery/zzz_Younuo_NativeIKPhysics_997_P.ucas",
+      "sha256": "aab211f706f558c66a1862e1fecf1587025f03893cc78c1edaccc6711c54dffc"
+    }
+  ]
+}
